@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import {getFullName} from "./fullName.js"; // aysenc menak
+import {getFullName} from "./fullName.js";
 
 function App() {
   return (
